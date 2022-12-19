@@ -2,6 +2,7 @@
 *.cc linguist-detectable=false
 *.h linguist-detectable=false
 *.cmake linguist-detectable=false
+*.txt linguist-detectable=false
 *.ruby linguist-detectable=false
 *.swift linguist-detectable=false
 *.c linguist-detectable=false
