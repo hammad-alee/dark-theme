@@ -3,3 +3,4 @@
 *.ruby linguist-detectable=false
 *.swift linguist-detectable=false
 *.c linguist-detectable=false
+*Podfile linguist-detectable=false
